@@ -6,11 +6,11 @@ Demonstrates the compatibility of the following dependencies based on the Based 
 
  - `org.mapstruct`:`mapstruct`:`1.4.1.Final`
  - `org.projectlombok`:`lombok`:`1.18.16` as the `provided` scope
- - `org.projectlombok`:`lombok-mapstruct-binding`:`0.1.0`
  
 **Annotation processors**
 
   - `org.projectlombok`:`lombok-mapstruct-binding`:`1.18.16`
+  - `org.projectlombok`:`lombok-mapstruct-binding`:`0.1.0`
   - `org.mapstruct`:`mapstruct-processor`:`1.4.1.Final`
 
 ## How to run
